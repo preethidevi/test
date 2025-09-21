@@ -2,5 +2,5 @@ test content
 remote content
 local f1 content
 remote f2 change
+remote f1 change 5th content conflict 
 remote f2 change 5th content conflict
-
